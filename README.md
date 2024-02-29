@@ -1,1 +1,2 @@
 # SwiggyUIClone
+Swiggy UI Clone is a web application developed using React for the front end, Tailwind CSS for styling, and HTML for structuring the content. It mimics the user interface of the Swiggy app, allowing users to experience a familiar and intuitive design while exploring the features you've implemented. The use of React ensures a dynamic and responsive user experience, while Tailwind CSS contributes to a modern and visually appealing presentation.
