@@ -4,4 +4,4 @@ Swiggy UI Clone is a web application developed using React for the front end, Ta
 # Instructions to start the project
 1.  Type 'npm i' in terminal then Hit Enter
 2.  Type 'npm start' rhen Hit Enter
-3.  Now click the  link [http://localhost:1234/] visible on terminal for starting the project
+3.  Now click the  link [LocalHost] [http://localhost:1234/] visible on terminal for starting the project
