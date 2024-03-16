@@ -1,6 +1,6 @@
 # Instructions to start the project
 1.  Type 'npm i' in terminal then Hit Enter
-2.  Type 'npm start' rhen Hit Enter
+2.  Type 'npm start' then Hit Enter
 3.  Now click the  link [LocalHost] [http://localhost:1234/] visible on terminal for starting the project
 
 
