@@ -10,9 +10,10 @@ const RestaurantMenu=()=>{
     const resMenu=useRestaurantMenu(resid);
     if(resMenu===null)
     return <Shimmer/>
-    const {name,cuisines,areaName,sla,avgRatingString,totalRatingsString,costForTwoMessage,feeDetails}=resMenu?.cards[0]?.card?.card?.info;
-    const offers=resMenu?.cards[1]?.card?.card?.gridElements?.infoWithStyle?.offers;
-    const Dishes=resMenu?.cards[2]?.groupedCard?.cardGroupMap?.REGULAR?.cards;
+    console.log("data fetched : ",resMenu);
+    const {name,cuisines,areaName,sla,avgRatingString,totalRatingsString,costForTwoMessage,feeDetails}=resMenu?.cards[2]?.card?.card?.info;
+    const offers=resMenu?.cards[3]?.card?.card?.gridElements?.infoWithStyle?.offers;
+    const Dishes=resMenu?.cards[4]?.groupedCard?.cardGroupMap?.REGULAR?.cards;
 
 
     return (
